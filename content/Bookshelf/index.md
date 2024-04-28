@@ -1,7 +1,7 @@
 ---
 title: Bookshelf
 tags:
-  - Books
+  - books
 ---
 # Currently reading
 [[tags/reading]]

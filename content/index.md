@@ -9,5 +9,8 @@ I'm [Andreas Backström](https://andreasbackstrom.se) and this is my place for a
 The notes are ever-changing and are written in a way that might be considered messy and unpolished. They are written mainly for myself but shared on the internet for anyone that may want to read and learn along side me. 
 
 > [!info]- A note on the language being used
-> The notes on this site may be written in either English or Swedish depending on the context in which I am taking them in. 
+> The notes on this site may be written in either English or Swedish depending on the context in which I am taking them in. For example, if I am reading something I will most likely take notes in the same language as being read. 
 
+
+## What I'm reading
+If you are interested in what I am currently reading or have already read you can go to my [[Bookshelf]]

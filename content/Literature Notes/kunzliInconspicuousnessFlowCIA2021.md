@@ -7,9 +7,9 @@ dateread:
 ---
 
 > [!Cite]
-> [1]
+> A. Künzli, ‘From inconspicuousness to flow - the CIA model of subtitle quality’, _Perspectives_, vol. 29, no. 3, pp. 326–338, May 2021, doi: [10.1080/0907676X.2020.1733628](https://doi.org/10.1080/0907676X.2020.1733628).
 
-A. Künzli, ‘From inconspicuousness to flow - the CIA model of subtitle quality’, _Perspectives_, vol. 29, no. 3, pp. 326–338, May 2021, doi: [10.1080/0907676X.2020.1733628](https://doi.org/10.1080/0907676X.2020.1733628).
+
 
 >[!Synth]
 >**Contribution**:: 
@@ -42,18 +42,16 @@ A. Künzli, ‘From inconspicuousness to flow - the CIA model of subtitle qualit
 # Notes
 >
 >The model proposed in this paper has not been used in any real world examples or compared to other models like BLEAU or WER.
-
-The model has a strong focus on interlingual subtitling but the core ideas and structure would be good to use in other work, including intralingual subtitling.
-
-Determining subtitle quality can depend on several factors including,
-
-1. Audiovisual genre - i.e documentary, comedy.
-2. The medium - is the video being watched on a movie screen, at home or on a smartphone?
-3. Audience - age of the viewer, cultural background, educational background, sensory impairments etc.
-4. The reason for the media - has the video been made to entertain or educate the viewer?
-
-These factors will change the way the subtitle will be made. A correctly made subtitle for a documentary will have a different styling and use different words than one made for comedy purposes where culture may prominent in the delivery of the jokes. These subtitles may still be considered correct despite there differences..
-
+>
+>The model has a strong focus on interlingual subtitling but the core ideas and structure would be good to use in other work, including intralingual subtitling.
+>
+>Determining subtitle quality can depend on several factors including,
+>1. Audiovisual genre - i.e documentary, comedy.
+>2. The medium - is the video being watched on a movie screen, at home or on a smartphone?
+>3. Audience - age of the viewer, cultural background, educational background, sensory impairments etc.
+>4. The reason for the media - has the video been made to entertain or educate the viewer?
+> 
+>These factors will change the way the subtitle will be made. A correctly made subtitle for a documentary will have a different styling and use different words than one made for comedy purposes where culture may prominent in the delivery of the jokes. These subtitles may still be considered correct despite there differences..
 
 # Annotations
 ### Imported: 2024-06-09 8:00 pm

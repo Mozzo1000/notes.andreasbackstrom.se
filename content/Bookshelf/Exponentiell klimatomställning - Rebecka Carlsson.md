@@ -1,7 +1,7 @@
 ---
 tags:
   - books
-  - reading
+  - read
 title: Exponentiell klimatomställning
 subtitle: Hur vi kan stoppa klimatförändringarna tillräckligt snabbt & hur du bygger pionjärt hållbara företag
 author: Rebecka Carlsson
@@ -29,3 +29,5 @@ by *Rebecka Carlsson*
 > Rebecka Carlsson är hållbarhetsentreprenör och klimataktivist. Hon har startat en handfull hållbarhetsföretag, arbetat som politiskt sakkunnig till Sveriges klimat- och miljöminister och utbildats i exponentiella teknologier vid Singularity University på NASA.
 >
 >Hennes budskap är att om tillräckligt många radikala förändringar kan haka i varandra som billig ren energi, lagring, klimatsmarta sätt att tillverka stål och cement eller skyskrapor av trä då kan även klimatet sällas till de lösta miljöproblemen inom några decennier.  Mattias Svensson, DN
+
+**Rating:** ⭐⭐⭐⭐

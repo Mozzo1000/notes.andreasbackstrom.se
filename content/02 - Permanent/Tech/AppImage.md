@@ -1,6 +1,7 @@
 ---
 tags:
   - linux
+  - published
 ---
 # Install AppImage like any other application
 ## Extract icon from AppImage
